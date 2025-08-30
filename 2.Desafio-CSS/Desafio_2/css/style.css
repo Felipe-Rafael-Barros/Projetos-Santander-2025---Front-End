@@ -1,0 +1,10 @@
+* {
+    color: aliceblue;
+}
+body{
+    background-color: rgb(4, 4, 77);
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
